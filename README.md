@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Thid is my Local repository.
 
 # we start with a local repository and  then we build a local repository on top of it.
