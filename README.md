@@ -27,4 +27,3 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about running tests for more information.              
 
 #### `npm run build` or `yarn build`        
->>>>>>> feature1
