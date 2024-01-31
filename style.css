@@ -1,10 +1,10 @@
 body{
-    background-color: aqua;
+    background-color: #00ffff;
     text-align: center;
-    text-decoration: teal;
+    text-decoration: rgb(16, 26, 169);
     display: flex;
     justify-content: center;
 }
 p   {
-        color: red;    
+        color: rgba(236, 20, 20, 0.779);    
     }
